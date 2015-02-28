@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>ZanyGnu</authors>
+    <owners>ZanyGnu</owners>
+    <licenseUrl>https://github.com/ZanyGnu/AppExtensions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ZanyGnu/AppExtensions</projectUrl>
+    <!--    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl> -->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension methods to extend capabilities of a windows application</description>
+    <releaseNotes>Allows letting an application run in the background, run on user login, and ensure single instance mode.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>SingleInstance Background Windows Extensions</tags>
+  </metadata>
+</package>
