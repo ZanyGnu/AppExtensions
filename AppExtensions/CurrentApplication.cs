@@ -72,7 +72,7 @@ namespace AppExtensions
 
         public static string GetCurrentApplication()
         {
-            return System.Reflection.Assembly.GetExecutingAssembly().Location;
+            return System.Reflection.Assembly.GetEntryAssembly().Location;
         }
     }
 }
